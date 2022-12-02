@@ -1,0 +1,2 @@
+# Learning by Applying: A General Framework for Mathematical Reasoning via Enhancing Explicit Knowledge Learning
+Source codes and datasets for paper *Learning by Applying: A General Framework for Mathematical Reasoning via Enhancing Explicit Knowledge Learning*.
