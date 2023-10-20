@@ -1,5 +1,5 @@
 # Learning by Applying: A General Framework for Mathematical Reasoning via Enhancing Explicit Knowledge Learning
-Source codes and datasets for AAAI-2023 paper *Learning by Applying: A General Framework for Mathematical Reasoning via Enhancing Explicit Knowledge Learning*.
+Source codes and datasets for AAAI-2023 paper "[Learning by Applying: A General Framework for Mathematical Reasoning via Enhancing Explicit Knowledge Learning](https://ojs.aaai.org/index.php/AAAI/article/view/25571)".
 
 ### Environment
 * OS: CentOS Linux release 7.7.1908
